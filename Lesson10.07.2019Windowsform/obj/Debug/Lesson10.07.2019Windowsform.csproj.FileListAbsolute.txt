@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\c# kurs\Lesson10.07.2019Windowsform\Lesson10.07.2019Windowsform\bin\Debug\Lesson10.07.2019Windowsform.exe.config
+C:\Users\user\Desktop\c# kurs\Lesson10.07.2019Windowsform\Lesson10.07.2019Windowsform\bin\Debug\Lesson10.07.2019Windowsform.exe
+C:\Users\user\Desktop\c# kurs\Lesson10.07.2019Windowsform\Lesson10.07.2019Windowsform\bin\Debug\Lesson10.07.2019Windowsform.pdb
+C:\Users\user\Desktop\c# kurs\Lesson10.07.2019Windowsform\Lesson10.07.2019Windowsform\obj\Debug\Lesson10.07.2019Windowsform.csprojAssemblyReference.cache
+C:\Users\user\Desktop\c# kurs\Lesson10.07.2019Windowsform\Lesson10.07.2019Windowsform\obj\Debug\Lesson10._07._2019Windowsform.Login.resources
+C:\Users\user\Desktop\c# kurs\Lesson10.07.2019Windowsform\Lesson10.07.2019Windowsform\obj\Debug\Lesson10._07._2019Windowsform.Properties.Resources.resources
+C:\Users\user\Desktop\c# kurs\Lesson10.07.2019Windowsform\Lesson10.07.2019Windowsform\obj\Debug\Lesson10.07.2019Windowsform.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c# kurs\Lesson10.07.2019Windowsform\Lesson10.07.2019Windowsform\obj\Debug\Lesson10.07.2019Windowsform.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c# kurs\Lesson10.07.2019Windowsform\Lesson10.07.2019Windowsform\obj\Debug\Lesson10.07.2019Windowsform.exe
+C:\Users\user\Desktop\c# kurs\Lesson10.07.2019Windowsform\Lesson10.07.2019Windowsform\obj\Debug\Lesson10.07.2019Windowsform.pdb
